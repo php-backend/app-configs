@@ -1,4 +1,5 @@
 {
   "latest_version": "0.1",
-  "api_base_url": "http://165.99.9.50/"
+  "api_base_url": "http://165.99.9.50/",
+  "download_url": "http://your-server.com/downloads/app-v1.1.apk"
 }
